@@ -27,7 +27,6 @@ CBIR_Project/
 1. Cài đặt các thư viện phụ thuộc
 Mở Terminal tại thư mục gốc của dự án (CBIR_Project) và chạy lệnh sau để cài đặt môi trường:
 
-Bash
 pip install -r requirements.txt
 
 2. Chuẩn bị dữ liệu
@@ -38,8 +37,8 @@ pip install -r requirements.txt
 3. Chạy ứng dụng giao diện web (Streamlit)
 Khởi chạy giao diện trực quan để tương tác, tải ảnh truy vấn và xem kết quả Top-5 tương đồng:
 
-Bash
 streamlit run app.py
+
 Sau đó truy cập đường dẫn hiển thị trên terminal (ví dụ: http://localhost:8501) trên trình duyệt web.
 
 4. Chạy kiểm thử thuật toán cốt lõi
