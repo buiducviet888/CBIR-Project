@@ -29,6 +29,7 @@ Mở Terminal tại thư mục gốc của dự án (CBIR_Project) và chạy l�
 
 Bash
 pip install -r requirements.txt
+
 2. Chuẩn bị dữ liệu
 Đưa các hình ảnh cơ sở dữ liệu vào thư mục dataset/.
 
